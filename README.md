@@ -75,7 +75,7 @@ src/
 Pasos
 ### Clonar repositorio
 ```
-git clone https://github.com/tu-usuario/agromanager.git
+git clone https://github.com/isairey/Sistema-Gerencia.git
 ```
 ### Abrir en tu IDE
 ### Configurar conexión a base de datos
