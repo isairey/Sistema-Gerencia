@@ -49,7 +49,11 @@ src/
 ├── view/          # Interfaces gráficas
 ├── controller/    # Controladores
 └── utils/         # Utilidades
-🗃️ Módulos del Sistema
+```
+---
+
+## 🗃️ Módulos del Sistema
+
 | Módulo        | Descripción |
 |--------------|------------|
 | Inventario   | Control de productos agrícolas y pesqueros |
@@ -58,56 +62,87 @@ src/
 | Clientes     | Administración de compradores |
 | Proveedores  | Gestión de suministros |
 | Reportes     | Estadísticas y análisis |
-🚀 Instalación
-Requisitos
-Java JDK 11+
-IDE (IntelliJ, Eclipse o NetBeans)
-Base de datos (MySQL o SQLite)
+
+---
+
+## 🚀 Instalación
+
+- Requisitos
+- Java JDK 11+
+- IDE (IntelliJ, Eclipse o NetBeans)
+- Base de datos (MySQL o SQLite)
+
 Pasos
-# Clonar repositorio
+### Clonar repositorio
+```
 git clone https://github.com/tu-usuario/agromanager.git
+```
+### Abrir en tu IDE
+### Configurar conexión a base de datos
 
-# Abrir en tu IDE
-# Configurar conexión a base de datos
-
-# Ejecutar el proyecto
+### Ejecutar el proyecto
+```
 🔧 Configuración de Base de Datos
-
-Ejemplo con MySQL:
-
+```
+### Ejemplo con MySQL:
+```
 String url = "jdbc:mysql://localhost:3306/agro";
 String user = "root";
 String password = "";
-🧪 Uso del Sistema
-Registrar productos agrícolas o pesqueros
-Registrar clientes y proveedores
-Controlar inventario
-Realizar ventas
-Consultar reportes
-📊 Características Destacadas
-Control de stock por tipo de producto
-Registro de fechas clave (cosecha/captura)
-Gestión de precios dinámicos
-Interfaz amigable
-Adaptable a distintos negocios rurales
-⚠️ Notas
-Configurar correctamente la base de datos antes de iniciar
-Verificar conexión JDBC
-Puede adaptarse a sistemas más grandes
-🤝 Contribuciones
-Fork del proyecto
-Crear rama (feature/nueva-funcionalidad)
-Commit de cambios
-Pull Request
-🐛 Reporte de errores
+```
+
+---
+
+## 🧪 Uso del Sistema
+
+- Registrar productos agrícolas o pesqueros
+- Registrar clientes y proveedores
+- Controlar inventario
+- Realizar ventas
+- Consultar reportes
+
+---
+
+## 📊 Características Destacadas
+
+- Control de stock por tipo de producto
+- Registro de fechas clave (cosecha/captura)
+- Gestión de precios dinámicos
+- Interfaz amigable
+- Adaptable a distintos negocios rurales
+
+---
+
+## ⚠️ Notas
+
+- Configurar correctamente la base de datos antes de iniciar
+- Verificar conexión JDBC
+- Puede adaptarse a sistemas más grandes
+
+---
+
+## 🤝 Contribuciones
+
+- Fork del proyecto
+- Crear rama (feature/nueva-funcionalidad)
+- Commit de cambios
+- Pull Request
+
+---
+
+## 🐛 Reporte de errores
 
 Abre un issue en el repositorio para reportar errores o sugerencias.
 
-📜 Licencia
+---
+
+## 📜 Licencia
 
 Licencia MIT
 
-👨‍💻 Autor
+---
 
-Isai Reyes
+## 👨‍💻 Autor
+
+**Isai Reyes**
 Desarrollador de software
